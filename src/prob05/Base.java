@@ -2,6 +2,7 @@ package prob05;
 
 public class Base {
 	public void service(String state){
+//		건들지마
 		if( state.equals( "낮" ) ) {
 			day();
 		} else {

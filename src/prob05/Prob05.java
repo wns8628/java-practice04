@@ -3,6 +3,8 @@ package prob05;
 public class Prob05 {
 
 	public static void main(String[] args) {
+		
+		//건들지마
 		Base base = new MyBase();
 
 		base.service("낮");
