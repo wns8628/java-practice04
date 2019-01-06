@@ -37,7 +37,5 @@ public class Printer{
 		for(T t : ts) {
 			System.out.println(t);	
 		}
-	}
-	
-	 
+	}	 
 }
